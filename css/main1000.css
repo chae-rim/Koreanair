@@ -1,0 +1,165 @@
+@media screen and (max-width: 1000px) {
+
+    #header_in {
+        margin: 0 auto;
+        width: 95%;
+        height: 90px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+
+
+
+    #main .search {
+        float: right;
+        margin-top: 20px;
+        width: 45%;
+        height: 530px;
+        border-radius: 10px;
+        border-bottom-right-radius: 100px 200px;
+        background-color: rgba(11, 11, 130, 0.7);
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+
+
+
+    #contents .img19 {
+        width: 95%;
+    }
+
+
+    #contents .travel h3 {
+        margin-left: 50px;
+    }
+
+    #contents .travel_b ul {
+        width: 90%;
+    }
+
+    #contents .travel_b li {
+        width: 23.5%;
+    }
+
+    #contents .travel_b img {
+        width: 100%;
+    }
+
+    #contents .event {
+        width: 90%;
+        margin: -160px 0 0 0;
+    }
+
+    #contents .event ul {
+        width: 95%;
+        margin-left: 70px;
+    }
+
+    #contents .event li {
+        margin-right: 20px;
+    }
+
+    #contents .event li:last-child {
+        margin-right: 0;
+    }
+
+    #contents .event h6 {
+        margin-left: 30px;
+        font-size: 1.5vw;
+    }
+
+    #contents .event p {
+        margin-left: 30px;
+        font-size: 1.3vw;
+    }
+
+    #contents .edocservice {
+        width: 50%;
+    }
+
+    #contents .group img {
+        margin: 60px 0 0 50px;
+        width: 40%;
+
+    }
+
+    #contents .easy {
+        margin-right: 50px;
+    }
+
+    #contents .skypass img {
+        width: 95%;
+    }
+
+    #contents .experience h3 {
+        margin-left: 30px;
+    }
+
+    #contents .experience_b ul {
+        width: 93%;
+    }
+
+    #contents .experience_b img {
+        width: 50px;
+        height: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    #footer .snb {
+        width: 94%;
+        margin-left: 4%;
+    }
+
+    #footer .snb_g {
+        width: 23%;
+    }
+
+    #footer .snb_g h6 {
+        font-size: 1.5vw;
+    }
+
+    #footer .snb_g a {
+        font-size: 1.2vw;
+    }
+
+    #footer .sns {
+        width: 34%;
+    }
+
+    #footer .sns .sns_h {
+        margin-right: 20px;
+    }
+
+    #footer .sns .sns_h img {
+        width: 30px;
+        height: 30px;
+    }
+
+    #footer .sns .sns_b li {
+        margin-right: 20px;
+    }
+
+    #footer .language ul {
+        margin-left: 30px;
+    }
+
+    #footer .address {
+        font-size: 14px;
+        margin: 25px 0 0 30px;
+    }
+}

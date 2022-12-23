@@ -1,0 +1,30 @@
+@media screen and (max-width: 320px) {
+    #header_in {
+        width: 90%;
+        background-color: aquamarine;
+    }
+
+    #header_in .nav {
+        display: none;
+    }
+
+    #header_in .header_btn li {
+        display: none;
+    }
+
+
+
+
+
+    #main .search {
+        display: none;
+    }
+
+    #contents .event {
+        display: none;
+    }
+
+    #contents .experience_b {
+        display: none;
+    }
+}
