@@ -43,3 +43,16 @@ $(document).ready(function () {
         current = n;
     }
 });
+
+
+// 지금 떠나기 좋은 여행
+$(document).ready(function () {
+    $('.btn1').click(function () {
+        $('.travel_b ul li:first').insertAfter('.travel_b ul li:last');
+    })
+})
+$(document).ready(function () {
+    $('.btn2').click(function () {
+        $('.travel_b ul li:last').insertBefore('.travel_b ul li:first');
+    })
+})
