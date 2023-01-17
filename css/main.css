@@ -462,6 +462,7 @@
 #contents {
     width: 100%;
     height: auto;
+    background-color: #fff;
 }
 
 #contents_box {
@@ -814,7 +815,7 @@
 #footer {
     width: 100%;
     height: 484px;
-    /* background-color: violet; */
+    background-color: #fff;
 }
 
 #footer .footer_in {
